@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">I'm Subbu, a full-stack freelance developer working remotely since 2020🚀
+### <div align="left">I'm Subbu, a full-stack freelance developer working remotely since 2020🚀
 
 <br /><br />
 Rich experience across digital design in a variety of industries and a variety of team formats including agencies, startups, and in-house teams.<br />
