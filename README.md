@@ -102,7 +102,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31xpxwioupzpwbrhm7cpmpwxlwgi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31xpxwioupzpwbrhm7cpmpwxlwgi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31xpxwioupzpwbrhm7cpmpwxlwgi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)]]
 
 <br/>  
 
