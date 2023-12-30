@@ -6,12 +6,9 @@
   
 
 ### <div align="left">I'm Subbu, a full-stack freelance developer working remotely since 2020🚀
-
-<br /><br />
+<br />
 Rich experience across digital design in a variety of industries and a variety of team formats including agencies, startups, and in-house teams.<br />
-
 Innovative and creative professional bringing years of background developing wireframes, sitemaps, schematics, and working prototypes. Recognized for actively interacting with clients to best accommodate customer needs and meet identified objectives.<br />
-
 </div>  
   
 
