@@ -96,7 +96,7 @@ Innovative and creative professional bringing years of background developing wir
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=subbutvl&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/659168a7ae22c12523ffc6b0?variant=dark)](https://roadmap.sh)
 <br/>  
 
 
