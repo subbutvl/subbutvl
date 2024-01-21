@@ -12,7 +12,7 @@ Rich experience across digital design in a variety of industries and a variety o
 Innovative and creative professional bringing years of background developing wireframes, sitemaps, schematics, and working prototypes. Recognized for actively interacting with clients to best accommodate customer needs and meet identified objectives.<br />
 </div>  
   
-<a href="https://app.daily.dev/subbutvl"><img src="https://api.daily.dev/devcards/5e133bdc5bf842558b84959d1eca1c42.png?r=8j6" width="400" alt="Subramanian Sankaran's Dev Card"/></a>
+
 <br/>  
 
 
@@ -67,7 +67,9 @@ Innovative and creative professional bringing years of background developing wir
 
 <br/>  
 
+<a href="https://app.daily.dev/subbutvl"><img src="https://api.daily.dev/devcards/5e133bdc5bf842558b84959d1eca1c42.png?r=8j6" width="400" alt="Subramanian Sankaran's Dev Card"/></a>
 
+<br/>  
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/subbutvl" target="_blank">
